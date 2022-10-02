@@ -34,7 +34,11 @@ void selectionSort(int array[], int size) {
 
 // driver code
 int main() {
-  int data[] = {20, 10, 5, 2, 1};
+  // taking i/p from user;
+  int data[5];
+  for(int i=0;i<5;i++){
+      cin>>data[i];
+  }
   int size = sizeof(data) / sizeof(data[0]);
   selectionSort(data, size);
   printArray(data, size);
