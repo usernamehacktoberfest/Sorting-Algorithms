@@ -1,3 +1,6 @@
+Sorry Guys, i have to archive this repo because it's got excluded from hacktoberfest 
+I also don't know why this got excluded 
+
 # Sorting-Algorithms
 
 
